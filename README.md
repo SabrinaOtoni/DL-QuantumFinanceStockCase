@@ -1,24 +1,10 @@
-# Perseguidor de Tendência (VALE3 - Vale do Rio Doce)
+# Perseguidor de Tendência
 ## Projeto Integrado - Deep Learning - Fundo de ações da FinTech QuantumFinance
 ### MBA de Data Science & Artificial Intelligence - FIAP
 
 ## Descrição
-A QuantumFinance está desejando construir um fundo de ações baseado em modelos de Deep Learning. A ideia é desenvolver um modelo que tenha como saída a compra ou venda de um determinada ação baseado na movimentação do mercado nos últimos 15 dias. A ação focada nesse projeto será da empresa Vale do Rio Doce (VALE3). 
+A QuantumFinance está desejando construir um fundo de ações baseado em modelos de Deep Learning. A ideia é desenvolver um modelo que tenha como saída a compra ou venda de um determinada ação baseado na movimentação do mercado nos últimos 15 dias.
 
-## Estrutura
-O projeto foi organizado de uma forma linear de modo a facilitar a navegação e compreensão do passo a passo.
-```
-├── data
-│   ├── csv
-│   │   ├── test.csv
-│   │   ├── train.csv
-│   ├── visualization.html
-├── model
-│   ├── pesos.h5
-├── notebook
-│   ├── valestock_deeplearning.ipynb
-└── README.md
-```
 ## Referências
 Wenjie Lu, Jiazheng Li, Yifan Li, Aijun Sun, Jingyang Wang, "A CNN-LSTM-Based Model to Forecast Stock Prices", Complexity, vol. 2020, Article ID 6622927, 10 pages, 2020. https://doi.org/10.1155/2020/6622927
 
