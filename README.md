@@ -16,4 +16,4 @@ Nascimento, D. (2021). Redes Neurais Convolucionais Aplicadas à Negociações d
 https://www.linkedin.com/in/sabrina-otoni-da-silva-22525519b/
 
 ## Agradecimentos
-Ao professor Felipe Teodoro, por todo conhecimento compartilhado em Deep Learning, você se tornou uma grande referência para mim. Que esse primeiro projeto seja referência para que em um futuro próximo eu poder notar a evolução dos meus estudos com outras versões do mesmo!
+Ao professor Felipe Teodoro, por todo conhecimento compartilhado em Deep Learning, você se tornou uma grande referência para mim. Que esse primeiro projeto seja espelho para que em um futuro próximo eu possa notar a evolução dos meus estudos.
