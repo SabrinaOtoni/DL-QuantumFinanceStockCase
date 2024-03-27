@@ -1,4 +1,5 @@
-# Perseguidor de Tendência
+# Perseguidor de Tendência -- Projeto a ser atualizado em breve com melhorias.
+
 ## Projeto Integrado - Deep Learning - Fundo de ações da FinTech QuantumFinance
 ### MBA de Data Science & Artificial Intelligence - FIAP
 
